@@ -1,0 +1,5 @@
+prioridades do seletor
+
+1. id
+2. class
+3. atributo padrão
